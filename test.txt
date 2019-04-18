@@ -1,5 +1,3 @@
-test.txt
-test.txt
-test.txt
-
-これはtest2の編集
+masterの内容
+masterの内容
+masterの内容
