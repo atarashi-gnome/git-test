@@ -1,22 +1,9 @@
-# atarashi-git-test
-テストで使用しているだけのリポジトリです
+# READMEとは
+テストで使用しているだけのリポジトリです。
+書き方を勉強中
 
-# Dependency
-txtファイルのみ
+## 見出しその2
+ああああああ
 
-# Setup
-ローカルに落とし、読む
-
-
-# Usage
-目で見て、感じる
-
-# Licence
-This software is released under the MIT License, see LICENSE.
-
-# Authors
-Atarashi Shinnosuke
-
-# References
-参考にさせていただいた記事
-https://deeeet.com/writing/2014/07/31/readme/
+### 見出しその3
+ああああああ
